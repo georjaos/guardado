@@ -1,0 +1,19 @@
+#success_message{
+  display: none;
+}
+
+#require{
+    color: red;
+    font-size: 16px;
+}
+
+.error{
+    background-color: #BC1010;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-weight: bold;
+    margin-left: 13px;
+    margin-top: -3px;
+    padding: 3px 12px;
+    position: absolute;
+}

@@ -1,0 +1,68 @@
+h2{
+    text-align: center;
+}
+
+thead th{
+    font-size: 12px;
+    text-align: center;
+}
+tbody td{
+    font-size: 14px;
+    text-align: center;
+}
+
+#interfaces{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
+
+#require{
+    color: red;
+    font-size: 16px;
+}
+
+.error{
+    background-color: #BC1010;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: -3px;
+    padding: 3px 12px;
+    position: absolute;
+}
+
+#rol{
+    text-transform: capitalize;
+}
+#rol_edit{
+    text-transform: capitalize;
+}
+#interfaz_name_view, #descripcion_view, #tipo_view, #detalletipo_view,#procesov_view,#proceso_name_edit, #descrip_edit, #rol_edit{
+    text-transform: capitalize;
+}
+
+tfoot {
+    display: table-header-group;
+}
+
+tfoot th{
+    font-size: 12px;
+    text-align: center;
+    font-weight:normal;
+}
+
+#txt_acc{
+    width:120px;
+}
+
+#txt4{
+    width: 200px;
+}
+
+.txt_find{
+    text-align: 12px;
+}
+
